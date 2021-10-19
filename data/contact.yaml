@@ -1,0 +1,32 @@
+email: 'info@taxteam-riedel.de'
+phone: '+49 (0) 6232 6457 0'
+fax: '+49 (0) 6232 6457 22'
+businessName: 'Steuerbüro Dr. Markus Riedel'
+address: |
+  Steuerbüro Riedel
+  Römerstr. 36
+  67166 Otterstadt
+  Deutschland
+
+# hours:
+#   - day: Monday
+#     open: 8:30am
+#     close: 5:00pm
+#   - day: Tuesday
+#     open: 8:30am
+#     close: 5:00pm
+#   - day: Wednesday
+#     open: 8:30am
+#     close: 5:00pm
+#   - day: Thursday
+#     open: 8:30am
+#     close: 5:00pm
+#   - day: Friday
+#     open: 8:30am
+#     close: 5:00pm
+#   - day: Saturday
+#     open: Closed
+#     close:
+#   - day: Sunday
+#     open: Closed
+#     close:
